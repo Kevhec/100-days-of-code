@@ -2,7 +2,7 @@
 
 ### Day 0: December 29, 2022
 
-**Today's Progress**: Started the challenge, did a frontEndMentor challenge *linked below*, started new project for JS course, created some readme files for my repos.
+**Today's Progress**: Started the challenge, did a frontEndMentor challenge *(linked below)*, started new project for JS course, created some readme files for my repos.
 
 **Thoughts:** Today is a special day due to my commitment with [100daysofcode](https://www.100daysofcode.com) challenge. I also did one small component for frontEndMentor that was kind of challenging because of my lack of experience positioning elements in the background. Finally, I started a new project for my JavaScript course.
 
