@@ -19,4 +19,4 @@
 
 **Links to work:** 
 - [Email validation simulation (finished today)](https://kevhec.github.io/JS-course-projects/16-PROYECTO-EnviarEmail/)
-- [e-commerce project (only in spanish)](https://kevhec.github.io/CSS-Course-Projects/E-commerce/index.html)
+- [e-commerce project (spanish only)](https://kevhec.github.io/CSS-Course-Projects/E-commerce/index.html)
