@@ -20,3 +20,12 @@
 **Links to work:** 
 - [Email validation simulation (finished today)](https://kevhec.github.io/JS-course-projects/16-PROYECTO-EnviarEmail/)
 - [e-commerce project (spanish only)](https://kevhec.github.io/CSS-Course-Projects/E-commerce/index.html)
+
+### Day 2: December 31, 2022
+
+**Today's Progress**: Did new frontEndMentor challenge.
+
+**Thoughts:** Today's challenge was pretty challenging for me, specially for some positioning issues I had but I managed to complete it! Now I'm aware of my lack of experience with positioning so my new goal is to get a better understanding of it. 
+
+**Links to work:** 
+- [frontEndMentor - FAQ accordion card](https://kevhec.github.io/frontEndMentor/projects/FAQ_accordion_card/)
