@@ -25,7 +25,7 @@
 
 **Today's Progress**: Did new frontEndMentor challenge.
 
-**Thoughts:** Today's challenge was pretty challenging for me, specially for some positioning issues I had but I managed to complete it! Now I'm aware of my lack of experience with positioning so my new goal is to get a better understanding of it. 
+**Thoughts:** Today's challenge was pretty challenging for me, specially for some positioning issues I had but I managed to complete it! Now I'm aware of my lack of experience with positioning so my new goal is to get a better understanding of it.
 
 **Links to work:** 
 - [frontEndMentor - FAQ accordion card](https://kevhec.github.io/frontEndMentor/projects/FAQ_accordion_card/)
@@ -35,6 +35,7 @@
 **Today's Progress**: Another frontEndMentor challenge!
 
 **Thoughts:** Today's challenge was a relief one not as the yesterday one wich was pretty challenging. But as every project I do for the platform It was filled with new learnings. This time I used the *background-repeat* porperty to save some lines for my html and I really liked the results, take a look to the challenge's README in it's repo linked below!
+Tomorrow my goal is to start the implementation of a recently learned JavaScript feature. It consists in the validation of forms. I'm specially interested in reading some documentations of regular expressions to validate things like e-mail structure or password required elements!
 
 **Links to work:** 
 - [Repo - Social proof section](https://github.com/Kevhec/frontEndMentor/tree/master/projects/Social_proof_section)
