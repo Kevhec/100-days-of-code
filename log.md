@@ -29,3 +29,13 @@
 
 **Links to work:** 
 - [frontEndMentor - FAQ accordion card](https://kevhec.github.io/frontEndMentor/projects/FAQ_accordion_card/)
+
+### Day 3: January 1, 2023
+
+**Today's Progress**: Another frontEndMentor challenge!
+
+**Thoughts:** Today's challenge was a relief one not as the yesterday one wich was pretty challenging. But as every project I do for the platform It was filled with new learnings. This time I used the *background-repeat* porperty to save some lines for my html and I really liked the results, take a look to the challenge's README in it's repo linked below!
+
+**Links to work:** 
+- [Repo - Social proof section](https://github.com/Kevhec/frontEndMentor/tree/master/projects/Social_proof_section)
+- [frontEndMentor - solution page](https://www.frontendmentor.io/solutions/social-proof-section-1UgmQZZbbB)
