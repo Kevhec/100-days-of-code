@@ -40,3 +40,14 @@ Tomorrow my goal is to start the implementation of a recently learned JavaScript
 **Links to work:** 
 - [Repo - Social proof section](https://github.com/Kevhec/frontEndMentor/tree/master/projects/Social_proof_section)
 - [frontEndMentor - solution page](https://www.frontendmentor.io/solutions/social-proof-section-1UgmQZZbbB)
+
+### Day 4: January 2, 2023
+
+**Today's Progress**: Started and almost finished (I guess) implementation of validations on old project form.
+
+**Thoughts:** As said on yesterday's log, my goal today was to start the implementation of a validation system for an old project for a CSS course. It's a begginer level project but I'm happy for been capable of doing it as these are my first steps with JavaScript.
+I did a big advance today with my undertanding of the language and the project is working as I wanted. Today I will finish it as are still missing some specific checks for unrequired inputs. I'll leave a link to the project's repository and live site below!
+
+**Links to work:** 
+- [Repo - e-commerce](https://github.com/Kevhec/CSS-Course-Projects/tree/main/E-commerce)
+- [e-commerce/contact page](https://kevhec.github.io/CSS-Course-Projects/E-commerce/contact.html)
