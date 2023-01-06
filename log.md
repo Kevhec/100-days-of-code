@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 5, 2023
+
+**Today's Progress**: After a small pause I did three new frontEndMentor challenges.
+
+**Thoughts:** I felt kind of bad due to some difficulties I had with one project that I knew wasn't so hard. I decided to rest a couple of days so I could try again with my mind relaxed and a better frame of mind. Finally I could finish it with ease and also did two more challenges and I'm so happy with the results, so this time I learned that things should be taken with calm, everything by its time, and some times it's ok to have some rest! Links to new work below.
+
+**Links to work:** 
+- [frontEndMentor - Article preview component](https://kevhec.github.io/frontEndMentor/projects/Article_preview_component/)
+- [frontEndMentor - Four card feature section](https://kevhec.github.io/frontEndMentor/projects/Four_card_feature_section/)
+- [frontEndMentor - Base apparel coming soon page](https://kevhec.github.io/frontEndMentor/projects/Base_apparel_coming_soon/)
+
 ### Day 4: January 2, 2023
 
 **Today's Progress**: Started and almost finished (I guess) implementation of validations on old project form.
