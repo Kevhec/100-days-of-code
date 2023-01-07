@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 6, 2023
+
+**Today's Progress**: Small frontEndMentor challenge and finished validation system for old e-commerce project.
+
+**Thoughts:** What can I say, today was a quiet day, did not do a lot but it was nice to make an easy frontEndMentor challenge and finally having my validation system ready for an old page I made for a CSS project. Links below!
+
+**Links to work:** 
+- [frontEndMentor - Single price grid component](https://kevhec.github.io/frontEndMentor/projects/Single_price_grid_component/)
+- [e-commerce/contact page](https://kevhec.github.io/CSS-Course-Projects/E-commerce/contact.html)
+
+
 ### Day 5: January 5, 2023
 
 **Today's Progress**: After a small pause I did three new frontEndMentor challenges.
