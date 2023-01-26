@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 26, 2023
+
+**Today's Progress**: I returned.
+
+**Thoughts:** It's been a few weeks since my last update, however I didn't stopped working. I made a lot of projects that I will link below, I'll be uploading their readme files as time goes on!
+
+**Links to work:** 
+- [frontEndMentor - Huddle landing page](https://kevhec.github.io/frontEndMentor/projects/N-Huddle_landing_page_with_single_introductory_section/)
+- [frontEndMentor - Intro component with sign up form](https://kevhec.github.io/frontEndMentor/projects/N-Intro_component_with_signup_form/)
+- [frontEndMentor - Ping comign soon page](https://kevhec.github.io/frontEndMentor/projects/N-Ping_coming_soon_page/)
+- [frontEndMentor - News home page](https://kevhec.github.io/frontEndMentor/projects/J-News_homepage/)
+- [Landing Page / TechPRO](https://kevhec.github.io/CSS-Course-Projects/techPro/)
+- [Landing Page / ArquitecturaBosque](https://kevhec.github.io/CSS-Course-Projects/Arquitectura/)
+- [e-Wallet / Nucleus (Learned BEM)](https://kevhec.github.io/CSS-Course-Projects/nucleus-eWallet/)
+- [Cafetería (current project, lerning SCSS and practicing BEM)](https://kevhec.github.io/CSS-Course-Projects/cafeteria/)
+
 ### Day 6: January 6, 2023
 
 **Today's Progress**: Small frontEndMentor challenge and finished validation system for old e-commerce project.
