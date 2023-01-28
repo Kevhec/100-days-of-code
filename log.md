@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 27, 2023
+
+**Today's Progress**: Some CSS and JS readings and small advance on café project.
+
+**Thoughts:** Today I read a CSS Trick's article about color schemes, it was really interesting! Also read some info on MDN about map objects in JavaScript! Finally, I did some small advances on the café project that I presented in yesterday's log.
+
+**Links to work:** 
+- [Cafetería (current project, lerning SCSS and practicing BEM)](https://kevhec.github.io/CSS-Course-Projects/cafeteria/)
+
 ### Day 7: January 26, 2023
 
 **Today's Progress**: I returned.
