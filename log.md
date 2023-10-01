@@ -8,3 +8,12 @@
 
 **Links to work:**
 - [Sonscape](https://github.com/Kevhec/songscape)
+
+### Day 0: September 29, 2023
+
+**Today's Progress:** Finished skeleton layout for artist card, added responsive design and refactored some scss
+
+**Thoughts:** Today I finished the skeleton layout for the artist card with animations and proper placeholders for every dynamic element of the card, also provided a responsive design to match my figma. Added some utility classes and refactored some scss to avoid magic numbers.
+
+**Links to work:**
+- [Sonscape](https://github.com/Kevhec/songscape)
