@@ -9,11 +9,20 @@
 **Links to work:**
 - [Sonscape](https://github.com/Kevhec/songscape)
 
-### Day 0: September 29, 2023
+### Day 1: September 30, 2023
 
 **Today's Progress:** Finished skeleton layout for artist card, added responsive design and refactored some scss
 
 **Thoughts:** Today I finished the skeleton layout for the artist card with animations and proper placeholders for every dynamic element of the card, also provided a responsive design to match my figma. Added some utility classes and refactored some scss to avoid magic numbers.
+
+**Links to work:**
+- [Sonscape](https://github.com/Kevhec/songscape)
+
+### Day 2: September 30, 2023
+
+**Today's Progress:** Added typography, heading and fav button components. Also started top tracks api call.
+
+**Thoughts:** The day was pretty educational. Practiced css animations for my fav button component, added a typography component that's going to save me time on the future and a heading component that's recurrent on the entire project. Also started checking the api call to get the top tracks chart and read some typescript docs.
 
 **Links to work:**
 - [Sonscape](https://github.com/Kevhec/songscape)
