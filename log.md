@@ -18,11 +18,20 @@
 **Links to work:**
 - [Sonscape](https://github.com/Kevhec/songscape)
 
-### Day 2: September 30, 2023
+### Day 2: October 1, 2023
 
 **Today's Progress:** Added typography, heading and fav button components. Also started top tracks api call.
 
 **Thoughts:** The day was pretty educational. Practiced css animations for my fav button component, added a typography component that's going to save me time on the future and a heading component that's recurrent on the entire project. Also started checking the api call to get the top tracks chart and read some typescript docs.
+
+**Links to work:**
+- [Sonscape](https://github.com/Kevhec/songscape)
+
+### Day 3: October 2, 2023
+
+**Today's Progress:** Created tracks component, added top tracks api route.
+
+**Thoughts:** Today the coding was not the main act, it was the docs reading process to check my external api services to achieve my goals for songscape. Found useful information and pretty nice endpoints. Tomorrow the development process will be full of learning with this new knowledge!
 
 **Links to work:**
 - [Sonscape](https://github.com/Kevhec/songscape)
