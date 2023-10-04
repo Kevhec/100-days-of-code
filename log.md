@@ -35,3 +35,12 @@
 
 **Links to work:**
 - [Sonscape](https://github.com/Kevhec/songscape)
+
+### Day 4: October 3, 2023
+
+**Today's Progress:** Advanced on tracks and cover arts api endpoint.
+
+**Thoughts:** Today I spent most of the time working on getting the cover art pictures for my tracks, endpoint that will be useful on future components, it's getting tough but the new knowledge is worth it!
+
+**Links to work:**
+- [Sonscape](https://github.com/Kevhec/songscape)
