@@ -44,3 +44,9 @@
 
 **Links to work:**
 - [Sonscape](https://github.com/Kevhec/songscape)
+
+### Day 5: October 4, 2023
+
+**Today's Progress:** Some algorithms practice on a tough day.
+
+**Thoughts:** Today was a very busy day but even tho I managed to practice some algorithms on my cellphone and read an article about modularization in react!
