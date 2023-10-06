@@ -50,3 +50,12 @@
 **Today's Progress:** Some algorithms practice on a tough day.
 
 **Thoughts:** Today was a very busy day but even tho I managed to practice some algorithms on my cellphone and read an article about modularization in react!
+
+### Day 6: October 3, 2023
+
+**Today's Progress:** Refactored code in charge of getting cover art images.
+
+**Thoughts:** Today the main advance was the better aproach used in the code that retrieves cover art images from Cover Art Archive database. This approach is the one that has given me the best results compared with the previous ones. It still needs some strict eye specially in error handling matters (this is a mayor problem in the whole project, I will use the time needed to work in it soon).
+
+**Links to work:**
+- [Sonscape](https://github.com/Kevhec/songscape)
